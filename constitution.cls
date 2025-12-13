@@ -2,7 +2,7 @@
 \ProvidesClass{constitution}
 
 \LoadClass{texteofficiel}
-\author{Chugo}
+\author{}
 
 \title{CONSTITUTION DE LA DÉMOCRATIE ERNESTIENNE NORMALIENNE ET SUPERCOOL}
 \newcounter{nbtitre}
